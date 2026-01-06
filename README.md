@@ -11,20 +11,7 @@ This project demonstrates clean folder structure, SQL-based persistence, and RES
 - **Uvicorn**
 
 ##  Project Structure
-pet_store/
-├── app/
-│ ├── api/
-│ │ └── routes_api.py
-│ ├── crud/
-│ │ └── sql_crud.py
-│ ├── db/
-│ │ └── init_db.py
-│ ├── models/
-│ │ └── schemas.py
-│ └── main.py
-├── requirements.txt
-├── .gitignore
-└── README.md
+<img width="283" height="582" alt="Screenshot 2026-01-06 165229" src="https://github.com/user-attachments/assets/64f1a0b1-3c97-433d-b10e-a736196095cd" />
 
 ## Steps Performed
 1. Create Virtual Environment
